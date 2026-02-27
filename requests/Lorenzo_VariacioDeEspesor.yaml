@@ -140,6 +140,42 @@ materials:
   - name: "Fe2O3"
     geant4_name: "G4_FERRIC_OXIDE"
     thickness_mm: 26.0
+
+  - name: "Nylon"
+    geant4_name: "G4_NYLON-6-6"
+    thickness_mm: 5.0
+
+  - name: "Nylon"
+    geant4_name: "G4_NYLON-6-6"
+    thickness_mm: 8.0
+
+  - name: "Nylon"
+    geant4_name: "G4_NYLON-6-6"
+    thickness_mm: 2.0
+    
+  - name: "Nylon"
+    geant4_name: "G4_NYLON-6-6"
+    thickness_mm: 14.0
+
+  - name: "Nylon"
+    geant4_name: "G4_NYLON-6-6"
+    thickness_mm: 0.5
+
+  - name: "Nylon"
+    geant4_name: "G4_NYLON-6-6"
+    thickness_mm: 0.8
+    
+  - name: "Nylon"
+    geant4_name: "G4_NYLON-6-6"
+    thickness_mm: 20.0
+
+  - name: "Nylon"
+    geant4_name: "G4_NYLON-6-6"
+    thickness_mm: 25.0
+
+  - name: "Nylon"
+    geant4_name: "G4_NYLON-6-6"
+    thickness_mm: 23.0
 # ─── What to produce ───
 outputs:
   highland_prediction: true    # Always fast — Highland formula calculation
