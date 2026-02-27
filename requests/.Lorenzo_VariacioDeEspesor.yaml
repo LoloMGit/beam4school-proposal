@@ -45,7 +45,7 @@ materials:
   - name: "Fe2O3"
     geant4_name: "G4_FERRIC_OXIDE"
     thickness_mm: 11.0
- - name: "Fe2O3"
+  - name: "Fe2O3"
     geant4_name: "G4_FERRIC_OXIDE"
     thickness_mm: 13.0
 
